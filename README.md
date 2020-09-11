@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Sam! Developer and wanna-be cowboy  
 
-<!--
-**Sammyjo20/Sammyjo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web apps for the financial industry and developer community. During the day I work at Codepotato, a web development agency - and by night I'm working on my personal projects.
 
-Here are some ideas to get you started:
+#### Current Project 🤠 :: Lasso!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lasso is your asset "wrangler" (see what I did there). It's built for Laravel, and it automatically compiles your Webpack/Laravel Mix assets and uploads them to a Filesystem of your choice. It will then download those assets on all your web servers.
+
+❌ No more assets in Git
+❌ No more slow servers while you wait for them to build assets
+✅ Faster deployments!
+
+😄 Pronouns: he/him
+💬 Ask me about Country Music!
+⚡ Fun fact: I setup a pirate internet radio station when I was 13 years old, it's what got me into Web Development!
