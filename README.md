@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sam! Developer and wanna-be cowboy  
+### Hi there 👋 I'm Sam! Developer and wannabe cowboy  
 
 I build web apps for the financial industry and developer community. During the day I work at Codepotato, a web development agency - and by night I'm working on my personal projects.
 
