@@ -12,6 +12,8 @@ Lasso is your asset "wrangler" (see what I did there). It's built for Laravel, a
 
 ✅ Faster deployments!
 
+You can learn more abiut Lasso on the official website: (getlasso.dev)[https://getlasso.dev]
+
 ### About Me
 
 😄 Pronouns: he/him
