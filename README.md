@@ -9,7 +9,7 @@ Lasso is your asset "wrangler" (see what I did there). It's built for Laravel, a
 You can learn more about Lasso on the official website: [getlasso.dev](https://getlasso.dev)
 
 ### About Me
-💬 Ask me about Country Music, my current favourite artists are Kip Moore, Luke Combs, Zac Brown Band, and Miranda Lambert
+💬 Ask me about... Country Music. My current favourite artists are Kip Moore, Luke Combs, Zac Brown Band, and Miranda Lambert
 
 ⚡ Fun fact: I setup an internet radio station when I was 13 years old, which sparked my interest in Web Development!
 
