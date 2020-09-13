@@ -6,17 +6,10 @@ I build web apps for the financial industry and developer community. During the 
 
 Lasso is your asset "wrangler" (see what I did there). It's built for Laravel, and it automatically compiles your Webpack/Laravel Mix assets and uploads them to a Filesystem of your choice. It will then download those assets on all your web servers.
 
-❌ No more assets in Git
-
-❌ No more slow servers while you wait for them to build assets
-
-✅ Faster deployments!
-
 You can learn more about Lasso on the official website: [getlasso.dev](https://getlasso.dev)
 
 ### About Me
-
-💬 Ask me about Country Music!
+💬 Ask me about Country Music, my current favourite artists are Kip Moore, Luke Combs, Zac Brown Band, and Miranda Lambert
 
 ⚡ Fun fact: I setup an internet radio station when I was 13 years old, which sparked my interest in Web Development!
 
