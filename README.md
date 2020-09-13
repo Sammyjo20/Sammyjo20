@@ -1,4 +1,4 @@
-### Hello I'm Sam! 
+### Hello I'm Sam!
 
 I build web apps for the financial industry and developer community. During the day I work at Codepotato, a web development agency - and by night I'm working on my personal projects.
 
