@@ -18,4 +18,4 @@ You can learn more about Lasso on the official website: [getlasso.dev](https://g
 
 💬 Ask me about Country Music!
 
-⚡ Fun fact: I setup a pirate internet radio station when I was 13 years old, it's what got me into Web Development!
+⚡ Fun fact: I setup an internet radio station when I was 13 years old, which sparked my interest in Web Development!
