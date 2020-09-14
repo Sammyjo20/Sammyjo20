@@ -2,7 +2,8 @@
 
 I build web apps for the financial industry and developer community. During the day I work at Codepotato, a web development agency - and by night I'm working on my personal projects.
 
-#### Current Project :: Lasso!
+### Current Projects
+#### Lasso 
 
 Lasso is your asset "wrangler" (see what I did there). It's built for Laravel, and it automatically compiles your Webpack/Laravel Mix assets and uploads them to a Filesystem of your choice. It will then download those assets on all your web servers.
 
