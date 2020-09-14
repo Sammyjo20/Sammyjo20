@@ -13,4 +13,4 @@ You can learn more about Lasso on the official website: [getlasso.dev](https://g
 
 ⚡ Fun fact: I setup an internet radio station when I was 13 years old, which sparked my interest in Web Development!
 
-[![Sammyjo20's github stats](https://github-readme-stats.vercel.app/api?username=sammyjo20&count_priviate=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sammyjo20's github stats](https://github-readme-stats.vercel.app/api?username=sammyjo20&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
