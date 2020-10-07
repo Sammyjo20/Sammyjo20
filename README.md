@@ -1,6 +1,6 @@
 ### Hello I'm Sam!
 
-I build web apps for the financial industry and developer community. During the day I work at Team Codepotato, a web development agency - and by night I'm working on my personal projects.
+I build web apps for the financial industry and developer community. During the day I work at Team Codepotato, a web development agency who build "spudtacular" applications for the financial industry.
 
 ### Current Projects
 #### Lasso 
