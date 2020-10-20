@@ -10,7 +10,7 @@ Lasso is your asset "wrangler" (see what I did there). It's built for Laravel, a
 You can learn more about Lasso on the official website: [getlasso.dev](https://getlasso.dev)
 #### Wagonwheel 
 
-Wagonwheel is a simple Laravel package built for one soul purpose: To provide an online version of all your Laravel emails. It's fully customisable and really quick to implement.
+Wagonwheel is a simple Laravel package built for one sole purpose: To provide an online version of all your Laravel emails. It's fully customisable and really quick to implement.
 
 You can learn more about Wagonwheel [here](https://github.com/sammyjo20/wagonwheel).
 
