@@ -24,6 +24,6 @@ You can learn more about Wagonwheel [here](https://github.com/sammyjo20/wagonwhe
 ### ❤️ Support my work
 If you've used any of my Laravel packages before or want to support my work financially, that would mean a ton to me. 
 
-You can [Sponsor Me On Github](https://gitub.com/sammyjo20/sponsor)
+You can [Sponsor me On Github](https://gitub.com/sammyjo20/sponsor)
 Or you can [Make a one time donation](https://ko-fi.com/sammyjo20)
 
