@@ -3,6 +3,10 @@
 I build web apps for the financial industry and developer community. During the day I work at Team Codepotato, a web development agency who build "spudtacular" applications for the financial industry.
 
 ### Current Projects
+
+#### Saloon
+Saloon is tool to help you build better integrations with third party APIs. It provides you with an eloquent, standardised syntax that will scale with your team. With Saloon, you don't have to worry about the underlying HTTP Client like Guzzle and spend more time with the data that APIs give you. 
+
 #### Lasso 
 
 Lasso is your asset "wrangler" (see what I did there). It's built for Laravel, and it automatically compiles your Webpack/Laravel Mix assets and uploads them to a Filesystem of your choice. It will then download those assets on all your web servers.
