@@ -20,15 +20,4 @@ Wagonwheel is a simple Laravel package built for one sole purpose: To provide an
 
 You can learn more about Wagonwheel [here](https://github.com/sammyjo20/wagonwheel).
 
-### About Me
-💬 Ask me about... Country Music. My current favourite artists are Kip Moore, Luke Combs, Zac Brown Band, and Miranda Lambert
-
-⚡ Fun fact: I setup an internet radio station when I was 13 years old, which sparked my interest in Web Development!
-
 [![Sammyjo20's github stats](https://github-readme-stats.vercel.app/api?username=sammyjo20&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### ❤️ Support my work
-If you've used any of my Laravel packages before or want to support my work financially, that would mean a ton to me. 
-
-You can [Make a one time donation](https://ko-fi.com/sammyjo20)
-
