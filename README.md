@@ -27,7 +27,3 @@ You can learn more about Wagonwheel [here](https://github.com/sammyjo20/wagonwhe
 
 ### 💖 Support my work
 While I never expect anything, if you would like to support my work, you can donate to my Ko-Fi page by simply buying me a coffee or two! https://ko-fi.com/sammyjo20
-
-### 🚤 Statistics
-
-[![Sammyjo20's github stats](https://github-readme-stats.vercel.app/api?username=sammyjo20&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
