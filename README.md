@@ -1,6 +1,6 @@
-### 👋 Howdy. I'm Sam!
+### 👋 Howdy. I'm Sam! 🤠
 
-I build web apps for the financial industry and developer community. During the day I work at Team Codepotato, a web development agency who build "spudtacular" applications for the financial industry.
+I build web apps for the financial industry and developer community. During the day I work at Plannr Technologies Ltd. We're building a revolutionary back-office system for the financial industry from the ground up
 
 ### My Open Source Packages
 
@@ -26,4 +26,7 @@ Wagonwheel is a simple Laravel package built for one sole purpose: To provide an
 You can learn more about Wagonwheel [here](https://github.com/sammyjo20/wagonwheel).
 
 ### 💖 Support my work
-While I never expect anything, if you would like to support my work, you can donate to my Ko-Fi page by simply buying me a coffee or two! https://ko-fi.com/sammyjo20
+
+While I never expect anything, if you would like to support my work, you can donate to my Ko-Fi page by simply buying me a coffee or two. The coffee will help keep me fueled on my next late-night working on open source. 
+
+ https://ko-fi.com/sammyjo20
