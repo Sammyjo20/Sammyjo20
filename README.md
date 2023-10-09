@@ -33,4 +33,4 @@ https://ko-fi.com/sammyjo20
 
 ### My Holopins!
 
-[![@sammyjo20's Holopin board](https://holopin.io/api/user/board?user=sammyjo20)](https://holopin.io/@sammyjo20)
+[![An image of @sammyjo20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sammyjo20)](https://holopin.io/@sammyjo20)
