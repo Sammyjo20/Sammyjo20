@@ -29,4 +29,8 @@ You can learn more about Wagonwheel [here](https://github.com/sammyjo20/wagonwhe
 
 While I never expect anything, if you would like to support my work, you can donate to my Ko-Fi page by simply buying me a coffee or two. The coffee will help keep me fueled on my next late-night working on open source. 
 
- https://ko-fi.com/sammyjo20
+https://ko-fi.com/sammyjo20
+
+### My Holopins!
+
+[![@sammyjo20's Holopin board](https://holopin.io/api/user/board?user=sammyjo20)](https://holopin.io/@sammyjo20)
