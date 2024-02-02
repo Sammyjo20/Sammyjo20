@@ -25,12 +25,6 @@ Wagonwheel is a simple Laravel package built for one sole purpose: To provide an
 
 You can learn more about Wagonwheel [here](https://github.com/sammyjo20/wagonwheel).
 
-### 💖 Support my work
-
-While I never expect anything, if you would like to support my work, you can donate to my Ko-Fi page by simply buying me a coffee or two. The coffee will help keep me fueled on my next late-night working on open source. 
-
-https://ko-fi.com/sammyjo20
-
 ### My Holopins!
 
 [![An image of @sammyjo20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sammyjo20)](https://holopin.io/@sammyjo20)
